@@ -1,0 +1,8 @@
+
+{
+  "name": "ParkSmart - AI Parking Finder",
+  "description": "A smart parking assistant that uses AI and geolocation to find the nearest parking spots and provides navigation directions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
